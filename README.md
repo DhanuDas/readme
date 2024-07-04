@@ -1,4 +1,4 @@
-Hola, I'm Dhanu Das 👋
+Hello, I'm Dhanu Das 👋
 
 An ECE undergrad who loves exploring new fields and is seeking to leverage design and development skills that aids in building engaging products with high quality user experience.
 
